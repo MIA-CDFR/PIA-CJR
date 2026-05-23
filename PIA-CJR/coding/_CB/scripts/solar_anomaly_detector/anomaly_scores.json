@@ -1,0 +1,2202 @@
+[
+  {
+    "rank": 1,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r00_p00.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r00_p00",
+    "score": 100.0,
+    "score_raw": 0.018677,
+    "alert": "RED"
+  },
+  {
+    "rank": 2,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r00_p00.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r00_p00",
+    "score": 95.78,
+    "score_raw": 0.018025,
+    "alert": "RED"
+  },
+  {
+    "rank": 3,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p07.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p07",
+    "score": 83.51,
+    "score_raw": 0.01613,
+    "alert": "RED"
+  },
+  {
+    "rank": 4,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r01_p00.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r01_p00",
+    "score": 81.56,
+    "score_raw": 0.015829,
+    "alert": "RED"
+  },
+  {
+    "rank": 5,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p06.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p06",
+    "score": 80.38,
+    "score_raw": 0.015647,
+    "alert": "RED"
+  },
+  {
+    "rank": 6,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p04.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p04",
+    "score": 79.82,
+    "score_raw": 0.015562,
+    "alert": "RED"
+  },
+  {
+    "rank": 7,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p03.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p03",
+    "score": 77.26,
+    "score_raw": 0.015165,
+    "alert": "RED"
+  },
+  {
+    "rank": 8,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p06.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p06",
+    "score": 73.75,
+    "score_raw": 0.014624,
+    "alert": "RED"
+  },
+  {
+    "rank": 9,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p03.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p03",
+    "score": 73.26,
+    "score_raw": 0.014549,
+    "alert": "RED"
+  },
+  {
+    "rank": 10,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r01_p00.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r01_p00",
+    "score": 72.43,
+    "score_raw": 0.01442,
+    "alert": "RED"
+  },
+  {
+    "rank": 11,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p04.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p04",
+    "score": 71.81,
+    "score_raw": 0.014324,
+    "alert": "RED"
+  },
+  {
+    "rank": 12,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p06.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p06",
+    "score": 70.89,
+    "score_raw": 0.014183,
+    "alert": "RED"
+  },
+  {
+    "rank": 13,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p05.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p05",
+    "score": 68.35,
+    "score_raw": 0.01379,
+    "alert": "RED"
+  },
+  {
+    "rank": 14,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p07.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p07",
+    "score": 67.83,
+    "score_raw": 0.013709,
+    "alert": "RED"
+  },
+  {
+    "rank": 15,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r00_p01.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r00_p01",
+    "score": 67.62,
+    "score_raw": 0.013677,
+    "alert": "RED"
+  },
+  {
+    "rank": 16,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r00_p00.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r00_p00",
+    "score": 67.17,
+    "score_raw": 0.013608,
+    "alert": "RED"
+  },
+  {
+    "rank": 17,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p05.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p05",
+    "score": 66.61,
+    "score_raw": 0.013522,
+    "alert": "RED"
+  },
+  {
+    "rank": 18,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p07.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p07",
+    "score": 66.59,
+    "score_raw": 0.013518,
+    "alert": "RED"
+  },
+  {
+    "rank": 19,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p08.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p08",
+    "score": 66.18,
+    "score_raw": 0.013455,
+    "alert": "RED"
+  },
+  {
+    "rank": 20,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r01_p02.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r01_p02",
+    "score": 65.83,
+    "score_raw": 0.0134,
+    "alert": "RED"
+  },
+  {
+    "rank": 21,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r00_p02.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r00_p02",
+    "score": 65.56,
+    "score_raw": 0.013358,
+    "alert": "RED"
+  },
+  {
+    "rank": 22,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p06.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p06",
+    "score": 62.95,
+    "score_raw": 0.012956,
+    "alert": "RED"
+  },
+  {
+    "rank": 23,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p06.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p06",
+    "score": 61.99,
+    "score_raw": 0.012808,
+    "alert": "RED"
+  },
+  {
+    "rank": 24,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p04.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p04",
+    "score": 61.46,
+    "score_raw": 0.012727,
+    "alert": "RED"
+  },
+  {
+    "rank": 25,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p00.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p00",
+    "score": 61.11,
+    "score_raw": 0.012673,
+    "alert": "RED"
+  },
+  {
+    "rank": 26,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p05.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p05",
+    "score": 57.99,
+    "score_raw": 0.01219,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 27,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p04.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p04",
+    "score": 57.61,
+    "score_raw": 0.012132,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 28,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p06.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p06",
+    "score": 57.54,
+    "score_raw": 0.012121,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 29,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r00_p01.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r00_p01",
+    "score": 55.93,
+    "score_raw": 0.011873,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 30,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r01_p00.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r01_p00",
+    "score": 54.08,
+    "score_raw": 0.011587,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 31,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r02_p00.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r02_p00",
+    "score": 53.0,
+    "score_raw": 0.011419,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 32,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p00.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p00",
+    "score": 51.9,
+    "score_raw": 0.01125,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 33,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p03.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p03",
+    "score": 50.39,
+    "score_raw": 0.011017,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 34,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r03_p02.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r03_p02",
+    "score": 46.67,
+    "score_raw": 0.010443,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 35,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p05.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p05",
+    "score": 41.79,
+    "score_raw": 0.009689,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 36,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r03_p01.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r03_p01",
+    "score": 41.13,
+    "score_raw": 0.009587,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 37,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p00.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p00",
+    "score": 39.53,
+    "score_raw": 0.009341,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 38,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p11.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p11",
+    "score": 38.05,
+    "score_raw": 0.009112,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 39,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p07.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p07",
+    "score": 35.77,
+    "score_raw": 0.00876,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 40,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r03_p00.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r03_p00",
+    "score": 35.45,
+    "score_raw": 0.00871,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 41,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r00_p01.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r00_p01",
+    "score": 35.22,
+    "score_raw": 0.008675,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 42,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p00.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p00",
+    "score": 33.36,
+    "score_raw": 0.008387,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 43,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p10.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p10",
+    "score": 30.76,
+    "score_raw": 0.007986,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 44,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p08.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p08",
+    "score": 30.63,
+    "score_raw": 0.007966,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 45,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p10.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p10",
+    "score": 30.54,
+    "score_raw": 0.007951,
+    "alert": "YELLOW"
+  },
+  {
+    "rank": 46,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p07.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p07",
+    "score": 29.22,
+    "score_raw": 0.007749,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 47,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p08.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p08",
+    "score": 29.14,
+    "score_raw": 0.007736,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 48,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p07.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p07",
+    "score": 28.68,
+    "score_raw": 0.007665,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 49,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p01.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p01",
+    "score": 28.22,
+    "score_raw": 0.007594,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 50,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p00.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p00",
+    "score": 28.14,
+    "score_raw": 0.007581,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 51,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p08.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p08",
+    "score": 27.35,
+    "score_raw": 0.007459,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 52,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r03_p00.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r03_p00",
+    "score": 26.69,
+    "score_raw": 0.007357,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 53,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p08.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p08",
+    "score": 26.53,
+    "score_raw": 0.007333,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 54,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p03.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p03",
+    "score": 26.19,
+    "score_raw": 0.007281,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 55,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p05.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p05",
+    "score": 25.92,
+    "score_raw": 0.007239,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 56,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p00.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p00",
+    "score": 25.01,
+    "score_raw": 0.007098,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 57,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p08.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p08",
+    "score": 24.66,
+    "score_raw": 0.007044,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 58,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p07.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p07",
+    "score": 24.49,
+    "score_raw": 0.007017,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 59,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p09.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p09",
+    "score": 24.3,
+    "score_raw": 0.006989,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 60,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p04.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p04",
+    "score": 23.8,
+    "score_raw": 0.006912,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 61,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p06.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p06",
+    "score": 23.45,
+    "score_raw": 0.006857,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 62,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p00.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p00",
+    "score": 23.39,
+    "score_raw": 0.006849,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 63,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p00.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p00",
+    "score": 23.13,
+    "score_raw": 0.006807,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 64,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r00_p00.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r00_p00",
+    "score": 23.08,
+    "score_raw": 0.0068,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 65,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p01.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p01",
+    "score": 23.04,
+    "score_raw": 0.006794,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 66,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p09.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p09",
+    "score": 22.63,
+    "score_raw": 0.00673,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 67,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p07.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p07",
+    "score": 22.25,
+    "score_raw": 0.006671,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 68,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r03_p00.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r03_p00",
+    "score": 22.03,
+    "score_raw": 0.006639,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 69,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p04.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p04",
+    "score": 21.86,
+    "score_raw": 0.006611,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 70,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p01.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p01",
+    "score": 21.55,
+    "score_raw": 0.006564,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 71,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p04.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p04",
+    "score": 21.21,
+    "score_raw": 0.006512,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 72,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p00.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p00",
+    "score": 21.16,
+    "score_raw": 0.006504,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 73,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p00.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p00",
+    "score": 20.93,
+    "score_raw": 0.006467,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 74,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p00.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p00",
+    "score": 20.86,
+    "score_raw": 0.006457,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 75,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r03_p02.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r03_p02",
+    "score": 20.71,
+    "score_raw": 0.006434,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 76,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p02.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p02",
+    "score": 20.64,
+    "score_raw": 0.006423,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 77,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p05.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p05",
+    "score": 20.51,
+    "score_raw": 0.006404,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 78,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p00.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p00",
+    "score": 19.93,
+    "score_raw": 0.006314,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 79,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p06.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p06",
+    "score": 19.85,
+    "score_raw": 0.006302,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 80,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p00.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p00",
+    "score": 19.61,
+    "score_raw": 0.006264,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 81,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r03_p01.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r03_p01",
+    "score": 19.54,
+    "score_raw": 0.006254,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 82,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p07.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p07",
+    "score": 19.28,
+    "score_raw": 0.006214,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 83,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p00.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p00",
+    "score": 19.28,
+    "score_raw": 0.006214,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 84,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p00.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p00",
+    "score": 19.2,
+    "score_raw": 0.006201,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 85,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p00.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p00",
+    "score": 19.14,
+    "score_raw": 0.006191,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 86,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r03_p00.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r03_p00",
+    "score": 19.06,
+    "score_raw": 0.00618,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 87,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p01.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p01",
+    "score": 19.04,
+    "score_raw": 0.006176,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 88,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r02_p02.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r02_p02",
+    "score": 19.0,
+    "score_raw": 0.006171,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 89,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r03_p01.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r03_p01",
+    "score": 18.91,
+    "score_raw": 0.006157,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 90,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p09.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p09",
+    "score": 18.9,
+    "score_raw": 0.006154,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 91,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p01.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p01",
+    "score": 18.62,
+    "score_raw": 0.006111,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 92,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p00.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p00",
+    "score": 18.54,
+    "score_raw": 0.006099,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 93,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r03_p00.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r03_p00",
+    "score": 18.54,
+    "score_raw": 0.006099,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 94,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p02.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p02",
+    "score": 18.27,
+    "score_raw": 0.006057,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 95,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p05.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p05",
+    "score": 17.88,
+    "score_raw": 0.005998,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 96,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p00.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r04_p00",
+    "score": 17.73,
+    "score_raw": 0.005974,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 97,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p01.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p01",
+    "score": 17.57,
+    "score_raw": 0.005949,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 98,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p07.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p07",
+    "score": 17.29,
+    "score_raw": 0.005907,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 99,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p00.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p00",
+    "score": 16.96,
+    "score_raw": 0.005855,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 100,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p01.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p01",
+    "score": 16.88,
+    "score_raw": 0.005843,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 101,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r00_p01.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r00_p01",
+    "score": 16.6,
+    "score_raw": 0.005799,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 102,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p00.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p00",
+    "score": 16.45,
+    "score_raw": 0.005777,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 103,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p00.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p00",
+    "score": 16.18,
+    "score_raw": 0.005735,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 104,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r01_p02.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r01_p02",
+    "score": 15.89,
+    "score_raw": 0.005691,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 105,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p02.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p02",
+    "score": 15.51,
+    "score_raw": 0.005631,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 106,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p00.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p00",
+    "score": 15.29,
+    "score_raw": 0.005597,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 107,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p01.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p01",
+    "score": 15.24,
+    "score_raw": 0.005589,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 108,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p09.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p09",
+    "score": 15.13,
+    "score_raw": 0.005572,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 109,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r03_p00.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r03_p00",
+    "score": 15.11,
+    "score_raw": 0.005569,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 110,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p03.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p03",
+    "score": 15.05,
+    "score_raw": 0.005561,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 111,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p07.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p07",
+    "score": 14.9,
+    "score_raw": 0.005537,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 112,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p02.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p02",
+    "score": 14.87,
+    "score_raw": 0.005533,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 113,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p01.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p01",
+    "score": 14.49,
+    "score_raw": 0.005474,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 114,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p03.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p03",
+    "score": 14.48,
+    "score_raw": 0.005473,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 115,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r03_p00.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r03_p00",
+    "score": 14.46,
+    "score_raw": 0.005469,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 116,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r02_p01.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r02_p01",
+    "score": 14.22,
+    "score_raw": 0.005432,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 117,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p00.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p00",
+    "score": 14.14,
+    "score_raw": 0.00542,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 118,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p00.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p00",
+    "score": 14.11,
+    "score_raw": 0.005414,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 119,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p00.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p00",
+    "score": 13.93,
+    "score_raw": 0.005388,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 120,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p06.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p06",
+    "score": 13.89,
+    "score_raw": 0.005381,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 121,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p01.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p01",
+    "score": 13.54,
+    "score_raw": 0.005328,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 122,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p04.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p04",
+    "score": 13.43,
+    "score_raw": 0.00531,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 123,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r03_p00.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r03_p00",
+    "score": 13.29,
+    "score_raw": 0.005289,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 124,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p03.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p03",
+    "score": 12.93,
+    "score_raw": 0.005233,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 125,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p00.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p00",
+    "score": 12.91,
+    "score_raw": 0.00523,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 126,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p03.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p03",
+    "score": 12.86,
+    "score_raw": 0.005222,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 127,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p00.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p00",
+    "score": 12.78,
+    "score_raw": 0.005209,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 128,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p07.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p07",
+    "score": 12.7,
+    "score_raw": 0.005197,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 129,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p02.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p02",
+    "score": 12.55,
+    "score_raw": 0.005175,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 130,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p04.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p04",
+    "score": 12.45,
+    "score_raw": 0.005159,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 131,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p02.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p02",
+    "score": 12.43,
+    "score_raw": 0.005155,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 132,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p03.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p03",
+    "score": 12.3,
+    "score_raw": 0.005135,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 133,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p04.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p04",
+    "score": 12.15,
+    "score_raw": 0.005113,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 134,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p03.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p03",
+    "score": 12.01,
+    "score_raw": 0.00509,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 135,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p06.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p06",
+    "score": 11.97,
+    "score_raw": 0.005086,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 136,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r03_p02.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r03_p02",
+    "score": 11.84,
+    "score_raw": 0.005064,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 137,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r01_p01.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r01_p01",
+    "score": 11.8,
+    "score_raw": 0.005059,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 138,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p05.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p05",
+    "score": 11.77,
+    "score_raw": 0.005054,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 139,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p02.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p02",
+    "score": 11.72,
+    "score_raw": 0.005047,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 140,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p05.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p05",
+    "score": 11.66,
+    "score_raw": 0.005037,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 141,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p05.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p05",
+    "score": 11.55,
+    "score_raw": 0.00502,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 142,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r00_p00.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r00_p00",
+    "score": 11.39,
+    "score_raw": 0.004995,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 143,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p06.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p06",
+    "score": 11.32,
+    "score_raw": 0.004985,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 144,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p04.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p04",
+    "score": 11.23,
+    "score_raw": 0.004971,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 145,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p01.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p01",
+    "score": 11.21,
+    "score_raw": 0.004968,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 146,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p01.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p01",
+    "score": 11.21,
+    "score_raw": 0.004967,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 147,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p01.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p01",
+    "score": 11.13,
+    "score_raw": 0.004955,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 148,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p01.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p01",
+    "score": 11.01,
+    "score_raw": 0.004937,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 149,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p03.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p03",
+    "score": 10.91,
+    "score_raw": 0.004921,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 150,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p02.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p02",
+    "score": 10.83,
+    "score_raw": 0.004908,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 151,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p00.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p00",
+    "score": 10.81,
+    "score_raw": 0.004905,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 152,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p01.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r00_p01",
+    "score": 10.8,
+    "score_raw": 0.004904,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 153,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p05.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p05",
+    "score": 10.76,
+    "score_raw": 0.004898,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 154,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p05.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p05",
+    "score": 10.69,
+    "score_raw": 0.004888,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 155,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p05.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p05",
+    "score": 10.66,
+    "score_raw": 0.004883,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 156,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p06.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p06",
+    "score": 10.37,
+    "score_raw": 0.004838,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 157,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p04.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p04",
+    "score": 10.35,
+    "score_raw": 0.004835,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 158,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p01.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p01",
+    "score": 10.19,
+    "score_raw": 0.00481,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 159,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p02.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p02",
+    "score": 10.17,
+    "score_raw": 0.004806,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 160,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p03.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p03",
+    "score": 10.13,
+    "score_raw": 0.004801,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 161,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p01.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p01",
+    "score": 10.02,
+    "score_raw": 0.004783,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 162,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p06.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p06",
+    "score": 10.0,
+    "score_raw": 0.00478,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 163,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p02.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p02",
+    "score": 9.99,
+    "score_raw": 0.004779,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 164,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r03_p00.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r03_p00",
+    "score": 9.96,
+    "score_raw": 0.004775,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 165,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p05.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p05",
+    "score": 9.96,
+    "score_raw": 0.004774,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 166,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p00.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p00",
+    "score": 9.9,
+    "score_raw": 0.004766,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 167,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p03.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p03",
+    "score": 9.88,
+    "score_raw": 0.004762,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 168,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p02.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p02",
+    "score": 9.84,
+    "score_raw": 0.004756,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 169,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p04.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p04",
+    "score": 9.78,
+    "score_raw": 0.004747,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 170,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r01_p00.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r01_p00",
+    "score": 9.71,
+    "score_raw": 0.004736,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 171,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p04.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p04",
+    "score": 9.7,
+    "score_raw": 0.004734,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 172,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p04.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p04",
+    "score": 9.67,
+    "score_raw": 0.00473,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 173,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p06.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p06",
+    "score": 9.66,
+    "score_raw": 0.004728,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 174,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p00.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p00",
+    "score": 9.6,
+    "score_raw": 0.00472,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 175,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p01.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p01",
+    "score": 9.33,
+    "score_raw": 0.004677,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 176,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r03_p02.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r03_p02",
+    "score": 9.32,
+    "score_raw": 0.004676,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 177,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r03_p01.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r03_p01",
+    "score": 9.3,
+    "score_raw": 0.004673,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 178,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p02.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p02",
+    "score": 9.26,
+    "score_raw": 0.004666,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 179,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p05.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p05",
+    "score": 9.19,
+    "score_raw": 0.004655,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 180,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p03.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p03",
+    "score": 9.08,
+    "score_raw": 0.004639,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 181,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p03.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p03",
+    "score": 9.06,
+    "score_raw": 0.004635,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 182,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p01.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p01",
+    "score": 8.68,
+    "score_raw": 0.004578,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 183,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p02.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p02",
+    "score": 8.51,
+    "score_raw": 0.00455,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 184,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p01.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p01",
+    "score": 8.45,
+    "score_raw": 0.004541,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 185,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p03.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p03",
+    "score": 8.38,
+    "score_raw": 0.004531,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 186,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p00.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p00",
+    "score": 8.37,
+    "score_raw": 0.004529,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 187,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r03_p01.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r03_p01",
+    "score": 8.36,
+    "score_raw": 0.004528,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 188,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p02.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p02",
+    "score": 8.25,
+    "score_raw": 0.00451,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 189,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p08.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p08",
+    "score": 8.19,
+    "score_raw": 0.0045,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 190,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p04.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p04",
+    "score": 8.12,
+    "score_raw": 0.004491,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 191,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p05.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p05",
+    "score": 8.06,
+    "score_raw": 0.004482,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 192,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p02.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p02",
+    "score": 7.91,
+    "score_raw": 0.004458,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 193,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p01.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p01",
+    "score": 7.79,
+    "score_raw": 0.004439,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 194,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p06.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p06",
+    "score": 7.74,
+    "score_raw": 0.004432,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 195,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p02.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p02",
+    "score": 7.72,
+    "score_raw": 0.004429,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 196,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p04.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p04",
+    "score": 7.66,
+    "score_raw": 0.004419,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 197,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p01.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p01",
+    "score": 7.56,
+    "score_raw": 0.004405,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 198,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p07.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p07",
+    "score": 7.49,
+    "score_raw": 0.004394,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 199,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r03_p00.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r03_p00",
+    "score": 7.42,
+    "score_raw": 0.004382,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 200,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p02.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r01_p02",
+    "score": 7.4,
+    "score_raw": 0.00438,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 201,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r03_p01.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r03_p01",
+    "score": 7.35,
+    "score_raw": 0.004371,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 202,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r03_p01.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r03_p01",
+    "score": 7.33,
+    "score_raw": 0.004368,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 203,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p03.png",
+    "name": "dji_20260316131305_0221_v_8ec8db6a-8bae-4b6c-bd80-5cf3fb6d765f_r03_p03",
+    "score": 7.32,
+    "score_raw": 0.004367,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 204,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p02.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p02",
+    "score": 7.26,
+    "score_raw": 0.004357,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 205,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p01.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p01",
+    "score": 7.06,
+    "score_raw": 0.004327,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 206,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p04.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p04",
+    "score": 6.95,
+    "score_raw": 0.00431,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 207,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r01_p00.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r01_p00",
+    "score": 6.93,
+    "score_raw": 0.004306,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 208,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p05.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p05",
+    "score": 6.86,
+    "score_raw": 0.004296,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 209,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p04.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p04",
+    "score": 6.83,
+    "score_raw": 0.004291,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 210,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p04.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p04",
+    "score": 6.82,
+    "score_raw": 0.004289,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 211,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p07.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p07",
+    "score": 6.8,
+    "score_raw": 0.004286,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 212,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p02.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r00_p02",
+    "score": 6.69,
+    "score_raw": 0.004269,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 213,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p02.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p02",
+    "score": 6.5,
+    "score_raw": 0.004241,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 214,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p03.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p03",
+    "score": 6.48,
+    "score_raw": 0.004238,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 215,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p05.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p05",
+    "score": 6.47,
+    "score_raw": 0.004236,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 216,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p03.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p03",
+    "score": 6.47,
+    "score_raw": 0.004235,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 217,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p01.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p01",
+    "score": 6.43,
+    "score_raw": 0.00423,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 218,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p03.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p03",
+    "score": 6.38,
+    "score_raw": 0.004221,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 219,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p01.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p01",
+    "score": 6.19,
+    "score_raw": 0.004192,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 220,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p02.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p02",
+    "score": 6.19,
+    "score_raw": 0.004192,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 221,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p00.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p00",
+    "score": 6.16,
+    "score_raw": 0.004187,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 222,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r03_p02.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r03_p02",
+    "score": 6.06,
+    "score_raw": 0.004172,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 223,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p04.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p04",
+    "score": 6.05,
+    "score_raw": 0.004171,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 224,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p02.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p02",
+    "score": 6.02,
+    "score_raw": 0.004167,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 225,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p02.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p02",
+    "score": 5.79,
+    "score_raw": 0.004131,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 226,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p04.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p04",
+    "score": 5.63,
+    "score_raw": 0.004106,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 227,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p04.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p04",
+    "score": 5.56,
+    "score_raw": 0.004096,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 228,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r01_p01.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r01_p01",
+    "score": 5.55,
+    "score_raw": 0.004093,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 229,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p05.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r01_p05",
+    "score": 5.42,
+    "score_raw": 0.004074,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 230,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p04.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p04",
+    "score": 5.13,
+    "score_raw": 0.004029,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 231,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p02.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p02",
+    "score": 5.1,
+    "score_raw": 0.004024,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 232,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p02.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p02",
+    "score": 5.02,
+    "score_raw": 0.004011,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 233,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r03_p01.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r03_p01",
+    "score": 5.0,
+    "score_raw": 0.004009,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 234,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p08.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p08",
+    "score": 4.97,
+    "score_raw": 0.004003,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 235,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p01.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r03_p01",
+    "score": 4.96,
+    "score_raw": 0.004002,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 236,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p02.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p02",
+    "score": 4.82,
+    "score_raw": 0.003981,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 237,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p01.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r01_p01",
+    "score": 4.82,
+    "score_raw": 0.003981,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 238,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p06.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p06",
+    "score": 4.8,
+    "score_raw": 0.003977,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 239,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p02.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r00_p02",
+    "score": 4.69,
+    "score_raw": 0.003961,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 240,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p03.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r01_p03",
+    "score": 4.65,
+    "score_raw": 0.003955,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 241,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p03.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p03",
+    "score": 4.52,
+    "score_raw": 0.003935,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 242,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p01.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r01_p01",
+    "score": 4.42,
+    "score_raw": 0.00392,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 243,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p02.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p02",
+    "score": 4.31,
+    "score_raw": 0.003901,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 244,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p05.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r02_p05",
+    "score": 4.18,
+    "score_raw": 0.003882,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 245,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p01.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r00_p01",
+    "score": 4.15,
+    "score_raw": 0.003877,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 246,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p05.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r02_p05",
+    "score": 4.0,
+    "score_raw": 0.003855,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 247,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p03.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r02_p03",
+    "score": 3.81,
+    "score_raw": 0.003825,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 248,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p03.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p03",
+    "score": 3.78,
+    "score_raw": 0.00382,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 249,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r03_p02.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r03_p02",
+    "score": 3.76,
+    "score_raw": 0.003817,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 250,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p04.png",
+    "name": "dji_20260316131307_0224_v_24a7485c-efae-46ec-8a98-f835586f7a24_r02_p04",
+    "score": 3.73,
+    "score_raw": 0.003813,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 251,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p02.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p02",
+    "score": 3.72,
+    "score_raw": 0.003811,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 252,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p05.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p05",
+    "score": 3.6,
+    "score_raw": 0.003792,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 253,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p01.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r00_p01",
+    "score": 3.59,
+    "score_raw": 0.003791,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 254,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p02.png",
+    "name": "dji_20260316131310_0228_v_64cae29c-e28a-4541-b9bd-8aa059e5facb_r01_p02",
+    "score": 3.56,
+    "score_raw": 0.003787,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 255,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p03.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r00_p03",
+    "score": 3.52,
+    "score_raw": 0.00378,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 256,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p03.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p03",
+    "score": 3.52,
+    "score_raw": 0.00378,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 257,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p03.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r02_p03",
+    "score": 3.24,
+    "score_raw": 0.003737,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 258,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p03.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p03",
+    "score": 3.19,
+    "score_raw": 0.003729,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 259,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p04.png",
+    "name": "dji_20260316131309_0227_v_6c0a921a-6c36-4db3-8c21-4f9cb28526e6_r02_p04",
+    "score": 2.76,
+    "score_raw": 0.003663,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 260,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p01.png",
+    "name": "dji_20260316131304_0220_v_b8033dbb-8eee-4b87-8f02-b32b13c75c8f_r03_p01",
+    "score": 2.72,
+    "score_raw": 0.003657,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 261,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p05.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p05",
+    "score": 2.65,
+    "score_raw": 0.003646,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 262,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p04.png",
+    "name": "dji_20260316131313_0233_v_23350f90-c789-4508-90af-afd209d91ae4_r01_p04",
+    "score": 2.57,
+    "score_raw": 0.003633,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 263,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p05.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r02_p05",
+    "score": 2.39,
+    "score_raw": 0.003605,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 264,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p03.png",
+    "name": "dji_20260316131306_0223_v_9ae35a3e-f6e7-44fd-a8de-dae7644965f1_r02_p03",
+    "score": 2.35,
+    "score_raw": 0.0036,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 265,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p03.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r01_p03",
+    "score": 2.06,
+    "score_raw": 0.003554,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 266,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p03.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r01_p03",
+    "score": 1.92,
+    "score_raw": 0.003534,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 267,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r03_p01.png",
+    "name": "dji_20260316131313_0232_v_098c6c76-e117-49c5-b858-b4f98ae841b1_r03_p01",
+    "score": 1.68,
+    "score_raw": 0.003496,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 268,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p02.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p02",
+    "score": 1.39,
+    "score_raw": 0.003451,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 269,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r03_p02.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r03_p02",
+    "score": 1.38,
+    "score_raw": 0.00345,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 270,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p03.png",
+    "name": "dji_20260316131311_0230_v_fc5dfddb-3214-4451-b160-b36ee212f8f4_r02_p03",
+    "score": 1.24,
+    "score_raw": 0.003429,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 271,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p04.png",
+    "name": "dji_20260316131312_0231_v_23137b96-afd4-4626-8be8-8e9073ab7768_r02_p04",
+    "score": 1.14,
+    "score_raw": 0.003412,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 272,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p01.png",
+    "name": "dji_20260316131314_0234_v_e083065f-301f-4b69-861c-e72f28d52689_r03_p01",
+    "score": 1.05,
+    "score_raw": 0.003399,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 273,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r03_p01.png",
+    "name": "dji_20260316131309_0226_v_5cebda58-3c9b-4d7b-a328-4f2da753e934_r03_p01",
+    "score": 0.78,
+    "score_raw": 0.003357,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 274,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p02.png",
+    "name": "dji_20260316131308_0225_v_d3fe7881-2846-4e0e-b576-186ddeba17e2_r02_p02",
+    "score": 0.13,
+    "score_raw": 0.003257,
+    "alert": "GREEN"
+  },
+  {
+    "rank": 275,
+    "file": "D:\\_PIA_CJR\\outputs\\_CB\\_solar_anomaly_detector\\panels\\dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p06.png",
+    "name": "dji_20260316131311_0229_v_0a6e1556-f0f5-4d50-8438-2d5e54a53049_r02_p06",
+    "score": 0.0,
+    "score_raw": 0.003237,
+    "alert": "GREEN"
+  }
+]

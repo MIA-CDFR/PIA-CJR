@@ -1,0 +1,161 @@
+# ============================================================
+# USER / ENVIRONMENT
+# ============================================================
+
+USER_ID: "_CB"
+
+ENVIRONMENT: "CARLOS_BERGUEIRA"
+
+
+# ============================================================
+# ROOT PATHS
+# ============================================================
+
+ROOT_DIR: "D:/_PIA_CJR"
+
+DATASET_DIR: "${ROOT_DIR}/dataset"
+
+OUTPUTS_DIR: "${ROOT_DIR}/outputs/${USER_ID}"
+
+
+# ============================================================
+# DATASET
+# ============================================================
+
+RAW_DIR: "${DATASET_DIR}/raw"
+
+NORMALIZED_DIR: "${DATASET_DIR}/normalized"
+
+PROCESSED_DIR: "${DATASET_DIR}/processed"
+
+METADATA_DIR: "${DATASET_DIR}/metadata"
+
+
+# ============================================================
+# OUTPUTS
+# ============================================================
+
+MODELS_DIR: "${OUTPUTS_DIR}/models"
+
+LOGS_DIR: "${OUTPUTS_DIR}/logs"
+
+FIGURES_DIR: "${OUTPUTS_DIR}/figures"
+
+EXPERIMENTS_DIR: "${OUTPUTS_DIR}/experiments"
+
+CHECKPOINTS_DIR: "${OUTPUTS_DIR}/checkpoints"
+
+EVALUATION_DIR: "${OUTPUTS_DIR}/evaluation"
+
+PREDICTIONS_DIR: "${OUTPUTS_DIR}/predictions"
+
+
+# ============================================================
+# TRAINING
+# ============================================================
+
+RANDOM_SEED: 42
+
+BATCH_SIZE: 16
+
+NUM_EPOCHS: 5
+
+LEARNING_RATE: 0.0001
+
+IMAGE_SIZE: 224
+
+NUM_WORKERS: 0
+
+DEVICE: "cuda"
+
+EARLY_STOPPING_PATIENCE: 5
+
+
+# ============================================================
+# THRESHOLD
+# ============================================================
+
+DEFECT_THRESHOLD: 0.30
+
+
+# ============================================================
+# EVALUATION
+# ============================================================
+
+CLASS_NAMES:
+  - non_defect
+  - defect
+
+EVALUATION_ENABLED: true
+
+SAVE_CONFUSION_MATRIX: true
+
+SAVE_CLASSIFICATION_REPORT: true
+
+SAVE_PREDICTIONS_CSV: true
+
+SAVE_MISCLASSIFIED: true
+
+NORMALIZE_CONFUSION_MATRIX: true
+
+
+# ============================================================
+# PREDICTION
+# ============================================================
+
+INFERENCE_DIR: ${OUTPUTS_DIR}/inference
+
+
+# ============================================================
+# CHECKPOINTS
+# ============================================================
+
+SAVE_CHECKPOINTS: true
+
+CHECKPOINT_EVERY_N_EPOCHS: 1
+
+
+# ============================================================
+# MODELS
+# ============================================================
+
+# MODEL_NAME: "DenseNet121"
+
+# BEST_MODEL_NAME: "best_model.pth"
+
+# NUM_CLASSES: 2
+
+# PRETRAINED: true
+
+# DROPOUT: 0.30
+
+
+# ============================================================
+# ACTIVE MODEL
+# ============================================================
+
+# Esolher o modelo pretendido para correr o pipeline completo (treino, avaliação e predição)
+ACTIVE_MODEL: "densenet121"
+# ACTIVE_MODEL: "efficientnet_b0"
+
+# ============================================================
+# MODEL CONFIGS
+# ============================================================
+
+MODELS:
+
+  densenet121:
+
+    NUM_CLASSES: 2
+
+    PRETRAINED: true
+
+    DROPOUT: 0.30
+
+  efficientnet_b0:
+
+    NUM_CLASSES: 2
+
+    PRETRAINED: true
+
+    DROPOUT: 0.30
