@@ -1,0 +1,46 @@
+Execução do pipeline solar_anomaly_detector:
+
+definir as variáveis em run_pipeline.bat.
+
+IMPORTANTE: INPUT_DIR só lê esta directoria, não "desce" ou seja não recursivo.
+INPUT_DIR=D:\_PIA_CJR\dataset_test\raw\2026_05_08_VALPACOS\visible
+
+
+
+
+solar_panel_extractor.py
+------------------------
+
+Pega numa fotografia de drone e recorta cada painel individualmente.
+foto_drone.jpg  (imagem inteira com vários painéis)
+        ↓
+deteção automática dos painéis (por cor azul + morfologia)
+        ↓
+r00_p00.png   r00_p01.png   r00_p02.png  ...
+r01_p00.png   r01_p01.png   ...
+(uma imagem PNG por painel, 300×300 grayscale)
+Faz isso para todas as fotos da pasta de input.
+
+
+solar_anomaly_detector.py
+-------------------------
+
+Pega nos PNGs gerados pelo extractor e diz quais os painéis mais suspeitos.
+r00_p00.png  r00_p01.png  r01_p00.png  ...  (43 painéis, ex.)
+        ↓
+treina AutoEncoder (aprende o aspeto "normal" de um painel)
+        ↓
+para cada painel: calcula o erro de reconstrução
+        ↓
+ordena do mais anómalo para o mais normal
+        ↓
+report_top_anomalies.png   ← top 15 suspeitos com heatmap
+report_overview.png        ← todos os painéis com score
+anomaly_scores.json        ← scores para consulta/automação
+
+O que não faz
+Não te diz que tipo de defeito existe — apenas diz "este painel parece diferente dos outros". Caberá a ti confirmar visualmente os que têm score alto.
+
+O fluxo completo
+Fotos drone  →  extractor  →  painéis PNG  →  detector  →  relatório
+O run_pipeline.bat executa estes dois passos automaticamente, um a seguir ao outro.
