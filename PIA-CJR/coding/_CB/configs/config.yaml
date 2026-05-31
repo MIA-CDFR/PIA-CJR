@@ -1,0 +1,137 @@
+# ============================================================
+# USER / ENVIRONMENT
+# ============================================================
+
+USER_ID: "_CB"
+ENVIRONMENT: "CARLOS_BERGUEIRA"
+
+
+# ============================================================
+# ROOT PATHS
+# ============================================================
+
+ROOT_DIR: "D:/_PIA_CJR"
+DATASET_DIR: "${ROOT_DIR}/dataset"
+OUTPUTS_DIR: "${ROOT_DIR}/outputs/${USER_ID}"
+MODELS_DIR: "${ROOT_DIR}/models"
+
+# ============================================================
+# IMAGENS: AUGMENTAÇÕES E FORMATOS ACEITES
+# ============================================================
+# VARIÁVEIS RELACIONADAS COM O TREINO DO MODELO DE SEGMENTAÇÃO (YOLO) EM \roboflow\train.py
+YOLO_DATA_FOLDER_EQUALS_AUGMENTED: FALSE    # NÃO VAMOS FAZER AUGMENTED; OU SEJA, VAMOS USAR O DATASET CF. VEIO DO ROBOFLOW.
+
+AUGMENTATIONS_PER_IMAGE: 20
+
+image_extensions: [.jpg, .jpeg, .png, .bmp, .tif, .tiff]
+
+# ============================================================
+# DATASET
+# ============================================================
+
+RAW_DIR: "${DATASET_DIR}/raw"
+
+# pasta onde são guardadas as imagens provenientes do dataset gerado em RoboFlow
+ROBOFLOW_DIR: "${DATASET_DIR}/roboflow"
+
+# pasta onde são guardadas as imagens artificialmente criadas a partir do dataset do Roboflow
+#     para aumentar o número de imagens disponíveis para treino, validação e teste do modelo de segmentação (YOLO)
+ROBOFLOW_AUGMENTED_DIR: "${DATASET_DIR}/roboflow_augmented"
+
+# pasta onde são guardadas as imagens dos painéis retificados/devidamente cortados das imagens originais (em RAW)
+#    gerados a partir do modelo de segmentação (YOLO)
+RAW_RECTIFIED_PANELS_DIR: "${DATASET_DIR}/raw_rectified_panels"
+
+
+# ============================================================
+# OUTPUTS
+# ============================================================
+
+LOGS_DIR: "${OUTPUTS_DIR}/logs"
+FIGURES_DIR: "${OUTPUTS_DIR}/figures"
+EXPERIMENTS_DIR: "${OUTPUTS_DIR}/experiments"
+CHECKPOINTS_DIR: "${OUTPUTS_DIR}/checkpoints"
+EVALUATION_DIR: "${OUTPUTS_DIR}/evaluation"
+PREDICTIONS_DIR: "${OUTPUTS_DIR}/predictions"
+
+
+# ============================================================
+# TRAINING
+# ============================================================
+
+RANDOM_SEED: 42
+BATCH_SIZE: 16
+NUM_EPOCHS: 100
+LEARNING_RATE: 0.0001
+IMAGE_SIZE: 224
+NUM_WORKERS: 0
+DEVICE: "cuda"
+EARLY_STOPPING_PATIENCE: 10
+
+# ============================================================
+# THRESHOLD
+# ============================================================
+
+DEFECT_THRESHOLD: 0.55
+
+
+# ============================================================
+# EVALUATION
+# ============================================================
+
+CLASS_NAMES:
+  - non_defect
+  - defect
+
+EVALUATION_ENABLED: true
+SAVE_CONFUSION_MATRIX: true
+SAVE_CLASSIFICATION_REPORT: true
+SAVE_PREDICTIONS_CSV: true
+SAVE_MISCLASSIFIED: true
+NORMALIZE_CONFUSION_MATRIX: true
+
+
+# ============================================================
+# PREDICTION
+# ============================================================
+
+INFERENCE_DIR: ${OUTPUTS_DIR}/inference
+
+
+# ============================================================
+# CHECKPOINTS
+# ============================================================
+
+SAVE_CHECKPOINTS: true
+CHECKPOINT_EVERY_N_EPOCHS: 1
+
+
+# ============================================================
+# MODELS
+# ============================================================
+
+MODEL_NAME: "DenseNet121"
+# BEST_MODEL_NAME: "best_model.pth"     A APAGAR
+NUM_CLASSES: 2
+# PRETRAINED: true                      A APAGAR
+DROPOUT: 0.30
+
+
+# ============================================================
+# YOLO
+# ============================================================
+
+YOLO_DATA_ROBOFLOW_YAML: "${DATASET_DIR}/roboflow/data.yaml"
+YOLO_DATA_ROBOFLOW_AUGMENTED_YAML: "${DATASET_DIR}/roboflow_augmented/data.yaml"
+YOLO_MODEL_WEIGHTS: "yolo11s-seg.pt"
+YOLO_MODEL_WEIGHTS_N: "yolo26n.pt"
+YOLO_EPOCHS: 100
+YOLO_PATIENCE: 20
+YOLO_CACHE: True
+YOLO_PLOTS: True
+YOLO_IMAGE_SIZE: 1024
+YOLO_BATCH_SIZE: 4
+YOLO_NUM_WORKERS: 0
+YOLO_PROJECT_DIR: "${OUTPUTS_DIR}/runs/segmentation"
+YOLO_BEST_PT: "yolo_trained_model.pt"
+YOLO_RUN_NAME: "yolo11s_seg"
