@@ -1,7 +1,0 @@
-
-
-
-https://medium.com/@Ignitarium/solar-panel-defect-detection-using-ai-techniques-ignitarium-com-87b604dcc23a
-
-https://github.com/zae-bayern/elpv-dataset
-https://github.com/RonakDedhiya/Automatic-Defect-Inspection-of-Solar-Farm
